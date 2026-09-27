@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is PRIYA
+This is PRIYA.
 I am a student of lab university of applied sciences , studying in Industrial Information Technology.
 
 
